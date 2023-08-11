@@ -3,7 +3,7 @@
 ## About
 ZXN TCount is a tool that can count Z80 and ZXN extended instruction clock cycle counts.
 
-### Features
+## Features
 - Paste in your Z80 asm and it will tell you the T count for each line and total T count
 - Based on data hosted [here](http://ped.7gods.org/Z80N_table_ClrHome.html). Thank you ClrHome and Ped7g!
 - Includes ZXN Extended OpCodes (core v2.00.22)
