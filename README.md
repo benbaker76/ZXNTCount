@@ -10,7 +10,7 @@ ZXN TCount is a tool that can count Z80 and ZXN extended instruction clock cycle
 - SjASM multi-line instruction support
 
 ## Screenshot
-![ZXN](/images/ZXNTCount.png)
+![ZXN](/.github/img/ZXNTCount.png)
 
 ## Release Notes
 | Date | Description |
